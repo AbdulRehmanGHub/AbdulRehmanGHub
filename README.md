@@ -1,5 +1,3 @@
-![logo](https://github.com/AbdulRehmanGHub/AbdulRehmanGHub/blob/5c8790ea645e5fe60adca2c257d55f06767b35cf/GitHub%20banner.jpg)
-
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
 <h3 align="center">A Full Stack Developer and Software Engineer from Pakistan.</h3>
 
