@@ -24,21 +24,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrehmanghub&label=Visitors:&color=007a02&style=plastic" alt="abdulrehmanghub" /> </p>
 
-- 🔭 I’m currently working on: **Web Development Projects.**
+- 🔭 I’m currently working on: **Web Projects.**
 
-- 🌱 I’m currently learning: **MERN Stack, Web3.0, Cloud.**
+- 🌱 I’m currently learning: **MERN Stack.**
 
 - 👯 I’m looking to collaborate on: **Advanced Projects.**
 
 - 🤝 Visit my LinkTree: **https://linktr.ee/devabdulrehman**
 
-- 👨‍💻 My projects are available at: [https://github.com/abdulrehmanghub](https://github.com/abdulrehmanghub)
+- 👨‍💻 My projects are available at [https://github.com/abdulrehmanghub](https://github.com/abdulrehmanghub)
 
 - 📝 I regularly write articles on Medium: [https://medium.com/@abdulrehman0](https://medium.com/@abdulrehman0)
 
 - 💬 Ask me about: **Web and Software Development.**
 
-- 📫 Reach me through email: **pakkhan9009@gmail.com**
+- 📫 Reach me through portfolio: **https://developerabdulrehman.netlify.app/**
 
 - ⚡ Fun fact: **Coding teaches you to solve ANY problem.**
 
