@@ -13,11 +13,11 @@
 
 - 📫 Reach out to me [PROFILE LINKS](https://linktr.ee/devabdulrehman)
 
-- 👨‍💻 Portfolio [https://developerabdulrehman.netlify.app/](https://developerabdulrehman.netlify.app/)
+- 👨‍💻 Portfolio [https://devabdulrehman.vercel.app](https://devabdulrehman.vercel.app)
 
 - 📝 Articles [https://medium.com/@abdulrehman0](https://medium.com/@abdulrehman0)
 
-- ⚡ Community Work [https://arcommunity.me/](https://arcommunity.me/)
+- ⚡ Community Work [https://arcommunity.me](https://arcommunity.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
