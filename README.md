@@ -13,7 +13,7 @@
 
 - 📫 Reach out to me [PROFILE LINKS](https://linktr.ee/devabdulrehman)
 
-- 👨‍💻 Portfolio [https://devabdulrehman.vercel.app](https://devabdulrehman.vercel.app)
+- 👨‍💻 Portfolio [https://www.techabdul.com](www.techabdul.com)
 
 - 📝 Articles [https://medium.com/@abdulrehman0](https://medium.com/@abdulrehman0)
 
