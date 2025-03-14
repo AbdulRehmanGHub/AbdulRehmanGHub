@@ -17,7 +17,7 @@
 
 - 📝 Articles [https://medium.com/@abdulrehman0](https://medium.com/@abdulrehman0)
 
-- ⚡ Community Work [https://arcommunity.me](https://arcommunity.me)
+- ⚡ Community Work [https://arcommunity.vercel.app/](https://arcommunity.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
